@@ -1,2 +1,3 @@
 # Hello-world
-First Repository, testing things out
+
+My First Github Project
